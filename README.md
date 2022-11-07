@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pankaj Koli
-- 👀 I’m interested in Cloud and Web development
-- 🌱 I’m currently learning HTML5, CSS, Javascript
-- 💞️ I’m skilled in Oracle cloud, Oracle EBS, PL/SQL
+- 👀 I’m interested in Cloud and Back-end development
+- 🌱 I’m currently learning Java8, Spring and spring boot
+- 💞️ I’m skilled in Oracle cloud, Oracle EBS, PL/SQL, SQL server management studio
 - 📫 How to reach me pkoli4843@gmail.com
 
 <!---
