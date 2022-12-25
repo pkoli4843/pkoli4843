@@ -15,7 +15,7 @@
 ### 💻 &nbsp; About Me :
 I am a Full Stack enthusiast, from India.
 - I’m currently working as a Systems Engineer @infosys and looking for a career as Backend Software Developer.
-- 👀 I’m interested in Cloud and Back-end development
+- 👀 I’m interested in Back-end development
 - 🌱 I’m currently learning JavaScript, React-JS, HTML, CSS, Git and GitHub
 - 💞️ I’m skilled in Oracle cloud, Oracle EBS, PL/SQL, SQL server management studio
 - 📫 How to reach me pkoli4843@gmail.com
